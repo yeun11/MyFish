@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyFish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="category_array">
+        <item>어항</item>
+        <item>조명</item>
+        <item>사료</item>
+        <item>여과기</item>
+        <item>히터/냉각</item>
+        <item>여과재</item>
+        <item>바닥재</item>
+        <item>청소용품</item>
+        <item>부화통</item>
+        <item>기타</item>
+    </string-array>
+
+    <string-array name="classification_array">
+        <item>전체 보기</item>
+        <item>난태생 열대송사리</item>
+        <item>난생 열대송사리</item>
+        <item>잉어과</item>
+        <item>카라신과</item>
+        <item>아나바스과</item>
+        <item>암바시스과</item>
+        <item>시클리드과</item>
+        <item>메기과</item>
+        <item>멜라노타이니아과</item>
+        <item>참복과</item>
+        <item>금붕어</item>
+    </string-array>
+
+
+</resources>

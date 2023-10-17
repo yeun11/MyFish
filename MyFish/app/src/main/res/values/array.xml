@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_list_category">
+        <item>키테고리를 선택해주세요</item>
+        <item>어항</item>
+        <item>조명</item>
+        <item>사료</item>
+        <item>여과기</item>
+        <item>히터/냉각</item>
+        <item>여과재</item>
+        <item>바닥재</item>
+        <item>청소용품</item>
+        <item>부화통</item>
+        <item>기타</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416181999228",
+    "project_id": "myfish-cf54d",
+    "storage_bucket": "myfish-cf54d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416181999228:android:d3c78a940799cda4e25bf9",
+        "android_client_info": {
+          "package_name": "com.example.myfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416181999228-q94h1akipqeo3f83gulang05r60t7n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_6K6vVEJ2DoYBPIDSMEvNVzLBbF3ZB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416181999228-q94h1akipqeo3f83gulang05r60t7n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
